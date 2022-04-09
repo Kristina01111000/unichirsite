@@ -7,6 +7,7 @@ update to site
 - updated pictures
 - contact us page needs to be fixed
 - probably using astra theme
+- need to login through siteground
 
 
 
