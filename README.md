@@ -9,9 +9,9 @@ update to site
 - probably using astra theme
 - added an admin account for me!
 - backup on siteground and in email
-- using easy appointments or booking calendar for the site
-    - https://wordpress.org/plugins/easy-appointments/
-    - https://wordpress.org/plugins/booking/
+- using appointment booking calendar for the site
+-   waiting on confirmation that it worked before removing the error message from the site
+
 
 
 old stuff:
