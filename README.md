@@ -34,5 +34,8 @@ to do:
 - confirm the new theme
 - fix missing images on the site
 - fix missing buttons on the site
+- fix showing buttons on the site
 - new pictures?
 - other updates?
+
+32 pages total to fix
