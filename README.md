@@ -42,3 +42,4 @@ to do:
 
 28 pages total to fix
 finished appointments page
+- stopped all comments on the site, deleted remaining comments
