@@ -3,14 +3,9 @@ update to site
 
 
 
-- needs an appointment booker
 - updated pictures
-- contact us page needs to be fixed
 - probably using astra theme
-- added an admin account for me!
 - backup on siteground and in email
-- using appointment booking calendar for the site -> it works, got a confirmation email from the site
-- contact form needs to be updated
 
 
 
@@ -32,3 +27,12 @@ old stuff:
   - will try to downgrade to a previous version of wp -> didn't work, still a fatal error
   - neither parent or child theme are working, both put a few error messages on the screen and don't show anything else
   - put one of the wordpress automatic themes up for the site
+
+
+to do:
+- fix the css on the site
+- confirm the new theme
+- fix missing images on the site
+- fix missing buttons on the site
+- new pictures?
+- other updates?
