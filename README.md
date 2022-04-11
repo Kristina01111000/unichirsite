@@ -8,6 +8,7 @@ update to site
 - contact us page needs to be fixed
 - probably using astra theme
 - added an admin account for me!
+- backup on siteground and in email
 - using easy appointments or booking calendar for the site
     - https://wordpress.org/plugins/easy-appointments/
     - https://wordpress.org/plugins/booking/
