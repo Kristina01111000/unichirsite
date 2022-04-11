@@ -9,8 +9,8 @@ update to site
 - probably using astra theme
 - added an admin account for me!
 - backup on siteground and in email
-- using appointment booking calendar for the site
--   waiting on confirmation that it worked before removing the error message from the site
+- using appointment booking calendar for the site -> it works, got a confirmation email from the site
+- contact form needs to be updated
 
 
 
