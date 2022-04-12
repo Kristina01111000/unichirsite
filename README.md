@@ -3,17 +3,14 @@ update to site
 
 
 
-- updated pictures
-- probably using astra theme
+- updated pictures?
+- probably using astra theme -> color scheme
 - backup on siteground and in email
 
 
 
 old stuff:
-  - check out univ. chir. site to see if the theme is fixed
-  - use ftp to see if disabling plugins, theme fixes the issue
-  - looks like the theme is the issue, not the plugins, switch to 2022 theme
-  - changed names of widget and plugin folders in theme, was able to gt into wordpress backend
+ 
   - he wants a copy of the site made before changing things
   - deleted 2011 theme from file manager, so that works
   - made a copy of the site in the folder, can't put new plugins in, so i can't do it that way
