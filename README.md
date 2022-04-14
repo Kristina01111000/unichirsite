@@ -10,7 +10,7 @@ update to site
 
 to do:
 - fix the css on the site (on individual pages)
-- fix missing images on the site
+- fix missing images on the site, link them from the other place, they are going to be slowly replaced
 - fix missing buttons on the site
 - fix showing buttons on the site -> they look OLD
 - new pictures?
