@@ -32,4 +32,4 @@ See if i can make the spacing smaller above bullet points
 Make a list of unlisted pages:
 - 4 element yoga
 
-finish testimonials  page
+finish fixing the pages, about 12 left :(
