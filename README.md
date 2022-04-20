@@ -31,3 +31,5 @@ See if i can make the spacing smaller above bullet points
 
 Make a list of unlisted pages:
 - 4 element yoga
+
+finish testimonials and natural therapies pages
