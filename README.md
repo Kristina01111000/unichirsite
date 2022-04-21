@@ -33,3 +33,19 @@ Make a list of unlisted pages:
 - 4 element yoga
 
 finish fixing the pages, about 12 left :(
+
+
+
+Make header text bigger
+Remove home from header menu
+On skeletal pain page decrease spacing under title
+Try to make columns line up
+On testimonials make melissa mendez picture same size as others
+Fit ginger parker into quote
+Fix spacing like michael cody
+Add make an appointment page to background of buttons
+Look for a lighter shade of blue for the background
+Switch sidebar to make an appointment now be hot and remove lower link
+Put meet dr w link over to right on the sidebar above make an appointment
+Figure out why logo is huge on mobile-> look in email for what he saw, site title is causing issues fixed
+Add space between the bottom of the page and the quote
