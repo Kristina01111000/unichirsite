@@ -47,3 +47,7 @@ Switch sidebar to make an appointment now be hot and remove lower link
 Put meet dr w link over to right on the sidebar above make an appointment
 Figure out why logo is huge on mobile-> look in email for what he saw, site title is causing issues fixed
 Add space between the bottom of the page and the quote
+
+
+
+- image on the migraine page is the lower back/sciatica image
