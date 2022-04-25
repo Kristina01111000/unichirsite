@@ -24,22 +24,14 @@ finished up to appointments page
 
 See if appointments can also be sent to his gmail also
 More bolder blue background, come up with 5 options for colors, take color from logo and make it lighter
-Black font -> needs to stand out
-Put the columns back
-Put the old pictures back
-See if i can make the spacing smaller above bullet points
+
 
 Make a list of unlisted pages:
 - 4 element yoga
 
-finish fixing the pages, about 12 left :(
-
-
 
 Make header text bigger
 Try to make columns line up
-Fit ginger parker into quote
-Fix spacing like michael cody
 Add make an appointment page to background of buttons
 Look for a lighter shade of blue for the background
 Put meet dr w link over to right on the sidebar above make an appointment
@@ -54,3 +46,4 @@ Add space between the bottom of the page and the quote
 - double titles? fix it so one?
 - removed the ones that had doubles of the same title
 - finished editing the pages!
+- fixed testimonials spacing 
