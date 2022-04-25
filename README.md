@@ -53,3 +53,4 @@ Add space between the bottom of the page and the quote
 - image on the migraine page is the lower back/sciatica image
 - heart issues and weight loss page have teh same scale picture
 - menstrual page has arthritis picture on it
+- stomach issues has neck/shoulder picture on it
