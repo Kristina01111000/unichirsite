@@ -37,7 +37,6 @@ finish fixing the pages, about 12 left :(
 
 
 Make header text bigger
-Remove home from header menu
 On skeletal pain page decrease spacing under title
 Try to make columns line up
 On testimonials make melissa mendez picture same size as others
