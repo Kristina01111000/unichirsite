@@ -31,14 +31,12 @@ Make a list of unlisted pages:
 
 
 Make header text bigger
-Try to make columns line up
-Add make an appointment page to background of buttons
 Look for a lighter shade of blue for the background
 Put meet dr w link over to right on the sidebar above make an appointment
 Add space between the bottom of the page and the quote
 
 
-
+- buttons an all of the pages in middle?
 - image on the migraine page is the lower back/sciatica image
 - heart issues and weight loss page have teh same scale picture
 - menstrual page has arthritis picture on it
