@@ -45,3 +45,15 @@ Add space between the bottom of the page and the quote
 - removed the ones that had doubles of the same title
 - finished editing the pages!
 - fixed testimonials spacing 
+
+
+
+Pick the better title for doubled pages
+In title have first letters capitalized
+Add 2 make an appointment buttons to each page
+Make all images cell phone width size 
+Put thyroid images on migraine page
+Heart issues page -> Look on bigstock photo for heart picture
+Menstrual page -> look on bigstock
+Stomach page -> look on bigstock
+Testimonials page connect the quotes and add a space at the beginning of the name line
