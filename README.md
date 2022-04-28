@@ -30,30 +30,18 @@ Make a list of unlisted pages:
 - 4 element yoga
 
 
-Make header text bigger
 Look for a lighter shade of blue for the background
 Put meet dr w link over to right on the sidebar above make an appointment
-Add space between the bottom of the page and the quote
 
 
 - buttons an all of the pages in middle?
-- image on the migraine page is the lower back/sciatica image
-- heart issues and weight loss page have teh same scale picture
-- menstrual page has arthritis picture on it
-- stomach issues has neck/shoulder picture on it
-- double titles? fix it so one?
-- removed the ones that had doubles of the same title
-- finished editing the pages!
-- fixed testimonials spacing 
-
-
-
-Pick the better title for doubled pages
-In title have first letters capitalized
-Add 2 make an appointment buttons to each page
-Make all images cell phone width size 
-Put thyroid images on migraine page
-Heart issues page -> Look on bigstock photo for heart picture
-Menstrual page -> look on bigstock
-Stomach page -> look on bigstock
-Testimonials page connect the quotes and add a space at the beginning of the name line
+- fix testimonials spacing 
+- Pick the better title for doubled pages
+- In title have first letters capitalized
+- Add 2 make an appointment buttons to each page
+- Make all images cell phone width size 
+- Put thyroid images on migraine page
+- Heart issues page -> Look on bigstock photo for heart picture
+- Menstrual page -> look on bigstock
+- Stomach page -> look on bigstock
+- Testimonials page connect the quotes and add a space at the beginning of the name line
