@@ -35,14 +35,13 @@ Put meet dr w link over to right on the sidebar above make an appointment
 
 
 - buttons an all of the pages in middle?
-- fix testimonials spacing 
 - Pick the better title for doubled pages
 - In title have first letters capitalized
 - Add 2 make an appointment buttons to each page
 - Make all images cell phone width size 
-- Testimonials page connect the quotes and add a space at the beginning of the name line
 
 pages to check:
 - menstrual
 - stomach
 - heart
+- testimonials spacing for quotes
