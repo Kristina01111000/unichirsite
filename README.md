@@ -40,9 +40,9 @@ Put meet dr w link over to right on the sidebar above make an appointment
 - In title have first letters capitalized
 - Add 2 make an appointment buttons to each page
 - Make all images cell phone width size 
-- Heart issues page -> Look on bigstock photo for heart picture -> in kn picks
-- Stomach page -> look on bigstock -> in kn picks
 - Testimonials page connect the quotes and add a space at the beginning of the name line
 
 pages to check:
 - menstrual
+- stomach
+- heart
