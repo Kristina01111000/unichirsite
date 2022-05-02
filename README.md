@@ -40,7 +40,7 @@ Put meet dr w link over to right on the sidebar above make an appointment
 - In title have first letters capitalized
 - Add 2 make an appointment buttons to each page
 - Make all images cell phone width size 
-- Put thyroid images on migraine page
+
 - Heart issues page -> Look on bigstock photo for heart picture
 - Menstrual page -> look on bigstock
 - Stomach page -> look on bigstock
