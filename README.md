@@ -33,10 +33,3 @@ Make a list of unlisted pages:
 Look for a lighter shade of blue for the background
 Put meet dr w link over to right on the sidebar above make an appointment
 
-
-- buttons an all of the pages in middle? -> all have 2
-- Pick the better title for doubled pages
-- In title have first letters capitalized
-- Add 2 make an appointment buttons to each page
-- Make all images cell phone width size 
-- skeletal pain ones done, need to do deeper health issues
