@@ -33,5 +33,3 @@ Make a list of unlisted pages:
 Look for a lighter shade of blue for the background
 Put meet dr w link over to right on the sidebar above make an appointment
 
-fix email links to outlook
-add the email address
