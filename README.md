@@ -3,13 +3,9 @@ update to site
 
 
 
-- waiting on updated pictures
-- probably using astra theme -> color scheme
-- backup on siteground and in email
-
 
 to do:
-- fix the css on the site (on individual pages)
+
 - fix missing images on the site, link them from the other place, they are going to be slowly replaced
 - fix missing buttons on the site
 - fix showing buttons on the site -> they look OLD
@@ -33,3 +29,4 @@ Make a list of unlisted pages:
 Put meet dr w link over to right on the sidebar above make an appointment
 New pictures at some point
 Make sure contact form on contact page works - send it to the universitychiropractic email address, right now not working
+- still waiting on updated pictures
