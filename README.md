@@ -5,7 +5,6 @@ update to site
 to do:
 - new pictures -> still waiting
 - See if appointments can also be sent to his gmail also
-- Make sure contact form on contact page works - send it to the universitychiropractic email address, right now not working
 - Put meet dr w link over to right on the sidebar above make an appointment -> after i get the copy for it
 - fix location page, it is messed up still
 About:
