@@ -15,5 +15,3 @@ List of unlisted pages:
 - 4 element yoga
 - about us
 
-
-Add sidebar with address and link to location page
