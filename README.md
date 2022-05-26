@@ -16,6 +16,4 @@ List of unlisted pages:
 - about us
 
 
-
-Add a google map to his office location page
 Add sidebar with address and link to location page
