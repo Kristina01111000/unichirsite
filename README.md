@@ -19,4 +19,3 @@ List of unlisted pages:
 
 Add a google map to his office location page
 Add sidebar with address and link to location page
-Switch email in contact us form to mine, fix the issue, then switch it to universitychiropractic@earthlink.net email
