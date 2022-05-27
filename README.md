@@ -15,4 +15,5 @@ List of unlisted pages:
 - 4 element yoga
 - about us
 
-the send us a message page works for my email, don't know about his
+contact page works for my email, don't know about his
+set it so they also go to me, so i can forward it to him.  I think it is caught in his spam filter
