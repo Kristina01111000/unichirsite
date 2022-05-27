@@ -15,3 +15,4 @@ List of unlisted pages:
 - 4 element yoga
 - about us
 
+the send us a message page works for my email, don't know about his
