@@ -16,5 +16,4 @@ List of unlisted pages:
 - about us
 
 - contact page works for my email, don't know about his
-- set it so they also go to me, so i can forward it to him.  I think it is caught in his spam filter
-- emailed him about it
+new icon?
