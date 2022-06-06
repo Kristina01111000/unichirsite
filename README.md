@@ -18,5 +18,4 @@ List of unlisted pages:
 - contact page works for my email, don't know about his
 new icon?
 
-Switch the email to universitychiropractic465@gmail.com on sidebar and bottom of front page
 Put the blue triangle in the icon try it, if not try just the guy, if not just the triangle with white in the middle
