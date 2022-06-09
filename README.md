@@ -13,7 +13,7 @@ List of unlisted pages:
 - 4 element yoga
 - about us
 
-- contact page works for my email, don't know about his
-new icon?
-Put a white square behind the guy in the icon to see how it looks
-Also put a red square behind it to see which are better
+- new icon
+    - Put a white square behind the guy in the icon to see how it looks
+    - Also put a red square behind it to see which are better
+    - pick the better one
