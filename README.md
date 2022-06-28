@@ -15,3 +15,5 @@ List of unlisted pages:
 
 - new icon -> get feedback
 
+Add more grey to top of icon img
+Try to make it rounded, not a circle
