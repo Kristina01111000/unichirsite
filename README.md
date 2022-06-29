@@ -14,6 +14,4 @@ List of unlisted pages:
 - about us
 
 - new icon -> get feedback
-
-Add more grey to top of icon img
 Try to make it rounded, not a circle
