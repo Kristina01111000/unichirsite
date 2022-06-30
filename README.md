@@ -12,6 +12,3 @@ About:
 List of unlisted pages:
 - 4 element yoga
 - about us
-
-- new icon -> get feedback
-Try to make it rounded, not a circle
