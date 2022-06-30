@@ -12,3 +12,4 @@ About:
 List of unlisted pages:
 - 4 element yoga
 - about us
+- error message when he tries to use the form
