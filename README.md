@@ -1,8 +1,7 @@
 # unichirsite
 
 to do:
-- new pictures -> still waiting
-- See if appointments can also be sent to his gmail also
+- new pictures -> still waiting, bring it up every week until it is done
 - Put meet dr w link over to right on the sidebar above make an appointment -> after i get the copy for it
 
 About:
