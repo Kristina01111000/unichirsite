@@ -3,6 +3,7 @@
 to do:
 - new pictures -> still waiting, bring it up every week until it is done
 - Put meet dr w link over to right on the sidebar above make an appointment -> after i get the copy for it, does he still want it?
+- does he want the scorecard on this site too?
 
 About:
 - about us page was never finished, it still has lorem ipsum on it, not linked to anywhere on the site, what does he want to finish it?
