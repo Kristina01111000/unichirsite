@@ -2,7 +2,7 @@
 
 to do:
 - new pictures -> still waiting, bring it up every week until it is done
-- Put meet dr w link over to right on the sidebar above make an appointment -> after i get the copy for it, does he still want it?
+- Put meet dr w link over to right on the sidebar above make an appointment -> he might want it in the future, bring it up once a month
 - does he want the scorecard on this site too?
 
 About:
