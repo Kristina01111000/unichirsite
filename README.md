@@ -1,7 +1,7 @@
 # unichirsite
 
 to do:
-- new pictures -> still waiting, bring it up every week until it is done
+- new pictures -> still waiting, bring it up every week until it is done, he says they were taken, but have not been edited
 - Put meet dr w link over to right on the sidebar above make an appointment -> he might want it in the future, bring it up once a month
 - does he want the scorecard on this site too?
 
