@@ -12,3 +12,5 @@ About:
 List of unlisted pages:
 - 4 element yoga
 - about us
+
+- need to add him as admin in analytics once it goes through
