@@ -1,7 +1,7 @@
 # unichirsite
 
 to do:
-- new pictures -> still waiting, bring it up every week until it is done, he says they were taken, but have not been edited
+- new pictures -> still waiting, bring it up every week until it is done, he says they were taken, but have not been edited -> will they ever be ready? at this point I don't think so
 
 About:
 - about us page was never finished, it still has lorem ipsum on it, not linked to anywhere on the site, what does he want to finish it?
