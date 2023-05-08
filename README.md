@@ -1,7 +1,7 @@
 # unichirsite
 
 to do:
-- new pictures -> still waiting, bring it up every month until he sends them
+- new pictures -> ask about this next year, he is having office problems
 
 About:
 - about us page was never finished, it still has lorem ipsum on it, not linked to anywhere on the site, what does he want to finish it?
