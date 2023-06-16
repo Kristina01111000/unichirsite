@@ -17,3 +17,4 @@ List of unlisted pages:
 
 - make sure to update the themes every couple months
 - ask if he has any other patient reviews that he wants put up
+- see if he wants the new picture still, it has people from years ago
