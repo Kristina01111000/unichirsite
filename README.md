@@ -21,3 +21,5 @@ List of unlisted pages:
 - write a review about  how he helped me fix my plantar fasciitis 
 
 - check the automatic updates
+
+can only get into the site through siteground, sigure out why
