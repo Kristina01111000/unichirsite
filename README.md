@@ -22,4 +22,4 @@ List of unlisted pages:
 
 - check the automatic updates
 
-can only get into the site through siteground, sigure out why
+can only get into the site through siteground, sigure out why -> deactivated siteground security plugin
