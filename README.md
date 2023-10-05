@@ -22,4 +22,4 @@ List of unlisted pages:
 
 - check the automatic updates
 
-can only get into the site through siteground, sigure out why -> deactivated siteground security plugin
+can only get into the site through siteground, sigure out why -> deactivated siteground security plugin, now the login works, why? try to figure it out
