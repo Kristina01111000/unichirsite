@@ -23,4 +23,4 @@ List of unlisted pages:
 - check the automatic updates
 
 can only get into the site through siteground, sigure out why -> deactivated siteground security plugin, now the login works, why? try to figure it out
-- find a new seurity plugin, or see if the security plugin works now w/o causing issues for login
+- find a new seurity plugin, or see if the security plugin works now w/o causing issues for login -> is still a problem, figure out another security plugin
