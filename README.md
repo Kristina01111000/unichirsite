@@ -21,3 +21,6 @@ List of unlisted pages:
 
 can only get into the site through siteground, sigure out why -> deactivated siteground security plugin, now the login works, why? try to figure it out
 - find a new seurity plugin, or see if the security plugin works now w/o causing issues for login -> is still a problem, figure out another security plugin
+
+
+He might take another picture for the homepage, the current one is ok
