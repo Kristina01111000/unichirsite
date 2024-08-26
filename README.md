@@ -24,3 +24,9 @@ can only get into the site through siteground, sigure out why -> deactivated sit
 
 
 He might take another picture for the homepage, the current one is ok
+
+css to remove side bar from mobile menu
+@media screen and (max-width: 799px)
+{
+	.sidebar-main {display:none;}
+}
