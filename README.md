@@ -27,3 +27,7 @@ css to remove side bar from mobile menu
 {
 	.sidebar-main {display:none;}
 }
+
+
+
+- put in tthe new photo for the frontpage
