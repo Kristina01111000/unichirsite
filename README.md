@@ -30,3 +30,8 @@ css to remove side bar from mobile menu
 
 
 - put in tthe new photo for the frontpage
+
+
+// removed from the widget, keeping it here incase he wants it back
+
+   <label style="background: url(/wp-content/themes/medica-parent/images/icons/icon_mail_small.png) 0 2px no-repeat; padding-left: 22px; margin-right: 3px; font-style: italic;">You can email us</label>
