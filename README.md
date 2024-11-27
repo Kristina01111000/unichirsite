@@ -28,7 +28,7 @@ css to remove side bar from mobile menu
 
 
 
-- make sure the sidebar is the way he wants it
+- make sure the sidebar is the way he wants it -> i made the new changes
 
 // removed from the widget, keeping it here incase he wants it back
 
