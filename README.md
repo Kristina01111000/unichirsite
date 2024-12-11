@@ -30,13 +30,6 @@ css to remove side bar from mobile menu
 
 - make sure the sidebar is the way he wants it -> i made the new changes
 
-Sidebar syracuse natural healing: 
-- Remove italic
-- Make about dr w stand out better, underline button?
-- Have about dr w then make an appointment, then bullets -> easiest way -> by phone -> you can email us at
-- Then at bottom the little paragraph, then location
-- Little paragraph:
-- We look forward to connecting you to the powerful world of Natural Healing. See you soon! – Dr. W. & staff
 
 
 
