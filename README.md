@@ -28,7 +28,7 @@ css to remove side bar from mobile menu
 
 
 
-- make sure the sidebar is the way he wants it -> i made the new changes
+- make sure the sidebar is the way he wants it -> make the new changes
 
 
 
