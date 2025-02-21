@@ -32,7 +32,7 @@ css to remove side bar from mobile menu
 - finalize side bar, changes made
 
 
-
+- need to check any links to 30 day challenge, change to tabulator
 
 // removed from the widget, keeping it here incase he wants it back
 
