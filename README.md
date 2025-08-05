@@ -28,8 +28,8 @@ css to remove side bar from mobile menu
 
 
 
-- make sure the sidebar is the way he wants it -> make the new changes
-- finalize side bar, changes made
+- the security plugin still locks users out, keep it off
+- figure out why php upgrades crash the site
 
 
 - need to check any links to 30 day challenge, change to tabulator
