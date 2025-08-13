@@ -34,6 +34,8 @@ css to remove side bar from mobile menu
 
 - need to check any links to 30 day challenge, change to tabulator
 
+- need to figure out why the php won't update, its becoming an issue
+
 // removed from the widget, keeping it here incase he wants it back
 
    <label style="background: url(/wp-content/themes/medica-parent/images/icons/icon_mail_small.png) 0 2px no-repeat; padding-left: 22px; margin-right: 3px; font-style: italic;">You can email us</label>
