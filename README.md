@@ -32,6 +32,7 @@ css to remove side bar from mobile menu
 - figure out why php upgrades crash the site
 
 try removing every inactive plgin to fix the php issue, can only work on it in the morning on sat / sun
+also try turning off the active plugins, could the plugin that lets people make appointments be causing the issue?
 - need to check any links to 30 day challenge, change to tabulator
 
 - need to figure out why the php won't update, its becoming an issue
