@@ -31,7 +31,7 @@ css to remove side bar from mobile menu
 - the security plugin still locks users out, keep it off
 - figure out why php upgrades crash the site
 
-
+try removing every inactive plgin to fix the php issue, can only work on it in the morning on sat / sun
 - need to check any links to 30 day challenge, change to tabulator
 
 - need to figure out why the php won't update, its becoming an issue
