@@ -11,10 +11,7 @@ List of unlisted pages:
 - need to add him as admin in analytics once it goes through
 
 
-- make sure to update the themes every couple months
 - ask if he has any other patient reviews that he wants put up
-- write a review about  how he helped me fix my plantar fasciitis 
-
 - check the automatic updates
 
 can only get into the site through siteground, sigure out why -> deactivated siteground security plugin, now the login works, why? try to figure it out
@@ -33,9 +30,10 @@ css to remove side bar from mobile menu
 
 try removing every inactive plgin to fix the php issue, can only work on it in the morning on sat / sun
 also try turning off the active plugins, could the plugin that lets people make appointments be causing the issue?
-- need to check any links to 30 day challenge, change to tabulator
+
 
 - need to figure out why the php won't update, its becoming an issue
+- could be caused by the appointment plugin? try again on saturday
 
 // removed from the widget, keeping it here incase he wants it back
 
